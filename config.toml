@@ -11,7 +11,6 @@ pygmentsStyle = "monokai"
 
 [params]
   footer = "David Kröll"
-  description = "Sky above, sand below and peace within"
   useMarkdownAboutDescription = true
   avatarURL = "/images/avatar.webp"
   AvatarAltText = "avatar"
