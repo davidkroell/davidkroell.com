@@ -1,6 +1,6 @@
 ---
 title: "Switch is Faster than If (in C#)"
-tags: ["programming"]
+tags: ["programming", "dotnet", "performance"]
 date: "2022-05-24"
 type: "post"
 showTableOfContents: true

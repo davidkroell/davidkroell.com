@@ -1,6 +1,6 @@
 ---
 title: "Zero to Hero: Containerizing .NET 5.0 WebApis"
-tags: ["programming"]
+tags: ["programming", "dotnet", "container"]
 date: "2021-07-10"
 type: "post"
 showTableOfContents: true

@@ -1,6 +1,6 @@
 ---
 title: "Don't use String.ToLower() in C# when comparing strings"
-tags: ["programming"]
+tags: ["programming", "dotnet", "performance"]
 date: "2022-03-15"
 type: "post"
 showTableOfContents: true

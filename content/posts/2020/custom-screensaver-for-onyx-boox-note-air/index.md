@@ -1,6 +1,6 @@
 ---
 title: "Custom screensaver for Onyx Boox Note Air"
-tags: ["reading"]
+tags: ["reading", "creative"]
 date: "2020-12-25"
 showTableOfContents: true
 type: "post"

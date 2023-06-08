@@ -1,6 +1,6 @@
 ---
 title: "Homemade DI: The How's and Why's of Dependency Injection (in dotnet)"
-tags: ["programming"]
+tags: ["programming", "dotnet"]
 date: "2021-11-04"
 type: "post"
 showTableOfContents: true

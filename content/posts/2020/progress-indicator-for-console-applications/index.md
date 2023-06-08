@@ -1,6 +1,6 @@
 ---
 title: "Progress indicator for console applications"
-tags: ["programming"]
+tags: ["programming", "golang", "dotnet"]
 date: "2020-12-01"
 type: "post"
 showTableOfContents: true

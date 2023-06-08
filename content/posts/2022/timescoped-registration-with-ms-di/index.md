@@ -1,6 +1,6 @@
 ---
 title: "A Time-Scoped Registration Mechanism for Microsoft .Extensions.DependencyInjection"
-tags: ["programming"]
+tags: ["programming", "dotnet"]
 date: "2022-04-18"
 type: "post"
 showTableOfContents: true

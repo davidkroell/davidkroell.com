@@ -1,6 +1,6 @@
 ---
 title: "A Simple Trick to Boost Performance of Async Code in C#"
-tags: ["programming"]
+tags: ["programming", "dotnet"]
 date: "2022-02-08"
 type: "post"
 showTableOfContents: true

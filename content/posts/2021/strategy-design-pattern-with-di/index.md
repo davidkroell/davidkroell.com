@@ -1,6 +1,6 @@
 ---
 title: "Strategy Design Pattern with Dependency Injection"
-tags: ["programming"]
+tags: ["programming", "dotnet"]
 date: "2021-09-21"
 type: "post"
 showTableOfContents: true
