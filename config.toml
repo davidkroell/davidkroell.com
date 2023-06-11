@@ -11,7 +11,7 @@ pygmentsStyle = "monokai"
 
 [params]
   footer = "David Kröll"
-  useMarkdownAboutDescription = true
+  useMDAbout = true
   avatarURL = "/images/avatar.webp"
   AvatarAltText = "avatar"
   avatarSize = "size-m"
