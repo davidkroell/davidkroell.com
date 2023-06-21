@@ -34,6 +34,11 @@ pygmentsStyle = "monokai"
     {name = "instagram", url = "https://instagram.com/david1kroell"},
   ]
   metaKeywords = ["david", "kroell", "blog", "personal", "homepage", "open source", "software", "engineering", "developer", "student", "TU", "Graz", "IT", "expert", "linux", "golang"]
+  metaDescription = """
+    My name is David, and I work as a software engineer in the Austrian city of Graz.
+    I'm currently enrolled in TU Graz's Software Engineering & Management programme.
+    In addition, I work as a Golang Engineer at Anexia.
+  """
 
 [menu]
   [[menu.main]]
