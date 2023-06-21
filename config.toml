@@ -12,7 +12,7 @@ pygmentsStyle = "monokai"
 [params]
   footer = "David Kröll"
   useMDAbout = true
-  avatarURL = "/images/avatar.webp"
+  avatarURL = "/images/avatar.jpg"
   avatarAltText = "Picture of me"
   avatarSize = "size-l"
   customHeadHTML = """
