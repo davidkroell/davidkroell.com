@@ -1,5 +1,5 @@
 baseURL = "https://davidkroell.com"
-title = "Gokarna"
+title = "David Kröll"
 theme = "gokarna"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -13,8 +13,8 @@ pygmentsStyle = "monokai"
   footer = "David Kröll"
   useMDAbout = true
   avatarURL = "/images/avatar.webp"
-  AvatarAltText = "avatar"
-  avatarSize = "size-m"
+  avatarAltText = "Picture of me"
+  avatarSize = "size-l"
   customHeadHTML = """
     <script defer type="module">
       import flamethrower from '/js/flamethrower-router0.0.0-meme.12.mjs';
@@ -33,7 +33,7 @@ pygmentsStyle = "monokai"
     {name = "linkedin", url = "https://linkedin.com/in/davidkroell"},
     {name = "instagram", url = "https://instagram.com/david1kroell"},
   ]
-  metaKeywords = ["blog", "david", "kroell", "portfolio", "personal", "page", "homepage"]
+  metaKeywords = ["david", "kroell", "blog", "personal", "homepage", "open source", "software", "engineering", "developer", "student", "TU", "Graz", "IT", "expert", "linux", "golang"]
 
 [menu]
   [[menu.main]]
