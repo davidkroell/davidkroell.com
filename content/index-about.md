@@ -1,7 +1,3 @@
----
-type: about
----
-
 # Hello,
 my name is David and I work as a software engineer in the Austrian city of **Graz**.
 I'm currently enrolled in TU Graz's **Software Engineering & Management** programme.
