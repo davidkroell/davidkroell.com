@@ -66,10 +66,16 @@ pygmentsStyle = "monokai"
     weight = 4
 
   [[menu.main]]
+    name = "gpg"
+    pre = "<span data-feather='unlock'></span>"
+    url = "/gpg.pub"
+    weight = 5
+
+  [[menu.main]]
     identifier = "github"
     pre = "<span data-feather='github'></span>"
     url = "https://github.com/davidkroell/davidkroell.com"
-    weight = 5
+    weight = 6
 
   [[menu.main]]
     identifier = "rss"
