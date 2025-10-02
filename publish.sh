@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-BASEURL="${BASEURL:-https://vermietung-hildegard.at/}"
+BASEURL="${BASEURL:-https://davidkroell.com/}"
 
 hugo --baseURL $BASEURL --gc --cleanDestinationDir --minify
 
