@@ -69,7 +69,7 @@ pygmentsStyle = "monokai"
   [[menu.main]]
     name = "gpg"
     pre = "<span data-feather='unlock'></span>"
-    url = "/gpg"
+    url = "/gpg.txt"
     weight = 5
     [menu.main.params]
       cold = true
