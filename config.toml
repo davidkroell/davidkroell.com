@@ -1,5 +1,5 @@
 baseURL = "https://davidkroell.com"
-title = "David Kröll"
+title = "David Kröll | Software Engineer - Student"
 theme = "gokarna"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -10,6 +10,7 @@ enableRobotsTXT = true
 pygmentsStyle = "monokai"
 
 [params]
+  name = "David Kröll"
   footer = "David Kröll"
   useMDAbout = true
   avatarURL = "/images/avatar.jpg"
@@ -68,7 +69,7 @@ pygmentsStyle = "monokai"
   [[menu.main]]
     name = "gpg"
     pre = "<span data-feather='unlock'></span>"
-    url = "/gpg.pub"
+    url = "/gpg.txt"
     weight = 5
 
   [[menu.main]]
