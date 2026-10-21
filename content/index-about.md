@@ -1,7 +1,8 @@
 # Hello,
-my name is David and I work as a software engineer in the Austrian city of **Graz**.
-I'm currently enrolled in TU Graz's **Software Engineering & Management** programme.
-In addition, I work as a Cloud Platform Engineer at [Anexia](https://anexia.com/).
+my name is David, and I am a software engineer based in the Austrian city of **Graz**.
+I work as a Cloud Platform Engineer at [Anexia Cloud Solutions](https://anexia.com/cloud-solutions),
+where I spend much time with Go, Kubernetes and DevOps.
+In 2026, I finished TU Graz's **Software Engineering & Management** program.
 
 I enjoy using code to design and create products of excellent quality.
 I always use state-of-the-art technology to achieve the best results.
